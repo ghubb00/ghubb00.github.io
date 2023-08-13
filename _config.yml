@@ -85,7 +85,7 @@ author:
   bio              : "MD Candidate - EVMS 2026"
   location         : #"Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Gregory-Hubbarde"
@@ -191,7 +191,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+   _posts
   - scope:
       path: ""
       type: posts
