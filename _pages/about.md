@@ -50,3 +50,35 @@ Academic History
 Past Employment
 ======
 
+EVMS Department of Neurology and Medical Imaging (current)
+Advisor: Alberto Musto, MD, PhD
+Study: Dynamic model of epileptogenic frequencies and dendritic spine density
+Techniques: machine learning, neural imaging, wave form analysis 
+
+ODU Vision Lab (2020-2021)
+Advisor: Khan Iftekharuddin, PhD
+Study: Two-Stage Transfer Learning for Facial Expression Classification in Children with Autism Spectrum Disorder
+Poster presentation: ODU Undergraduate Research Symposium 2022 
+
+Virginia Space Grant Consortium Research Fellowship (2019-2020)
+Advisor: Jan Dotzauer , Program Specialist Virginia Space Grant Consortium 
+Study: Carbon Dioxide And Particulate Matter Concentration on Hampton Roads Air Quality 
+Selected as a Virginia Space Grant Consortium (VSGC) Undergraduate Research fellow for 2019 - 2020. Research proposal was funded and supported by faculty from the five Virginia Space Grant universities. 
+Final paper was submitted to VSGC’s technical repository and published by ODU’s Undergraduate Research Journal in January 2021. Accepted to attend the 2020 Virginia Space Grant Research Conference for presentation but canceled due to concerns related to COVID. Specific research consisted of a report of local industrial air quality and related coastal implication. 
+
+
+Summer REU: UM Department of Computational Neuroscience (2019)
+Advisor: Odelia Schwartz, PhD
+Study: Deep neural networks and modeling of cortical visual processing
+·      Poster presentation: UM REU Summer Research Ceremony 2019
+
+Summer undergraduate research assistant following the study of two different broad approaches for the understanding of cortical visual processing. Involved the analysis of deep neural networks in comparison to known aspects of the visual system. The direct application of this research functions to improve existing computer vision technology through biological mimicry as well as garner a greater understanding of biological visual processing as a whole. Worked in part of a multi-disciplinary research team combining fields of medicine with computer science and engineering. 
+Individual research was presented at the University of Miami Medical School Campus in coordination with the REU program 
+
+NASA Kennedy Space Center, Software Engineering Intern, Merritt Island, FL 
+Advisor: Jill Giles, System Software Engineer  
+Study: Realistic Data Generation And Publication For Launch Control Systems
+
+Developed functional tests for Class A, human-rated, safety critical telemetry and command processors in a launch control system, participating in the full software development lifecycle with full-time engineers and following agile development processes. Participated in various outreach activities, assisting with STEM activities for pre-college students and team building events 
+Wrote a final report for NASA’s Scientific and Technical Information (STI) repository. 
+STI approval and paper on personal site: http://ghubb.com
