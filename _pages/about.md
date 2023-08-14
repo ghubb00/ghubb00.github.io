@@ -10,9 +10,8 @@ redirect_from:
 
 I am a current second-year medical student (M2) at Eastern Virginia Medical School passionate about healthcare and medical education. Previous background in software development and computational research.
 
-Academic History
+Academic Activity
 ======
-
 
 <p>
 <em>Paracrine Proximal Tubule Semaphorin3B Mediates Glomerular Parietal Epithelial Cell</em>
