@@ -79,7 +79,8 @@ Past Employment
 
 ### Virginia Space Grant Consortium Research Fellowship (2019-2020)
 * Advisor: Jan Dotzauer , Program Specialist Virginia Space Grant Consortium 
-* Study: Carbon Dioxide And Particulate Matter Concentration on Hampton Roads Air Quality 
+* Study: Carbon Dioxide And Particulate Matter Concentration on Hampton Roads Air Quality
+
 <br><small> Selected as a Virginia Space Grant Consortium (VSGC) Undergraduate Research fellow for 2019 - 2020. Research proposal was funded and supported by faculty from the five Virginia Space Grant universities. 
 Final paper was submitted to VSGC’s technical repository and published by ODU’s Undergraduate Research Journal in January 2021. Accepted to attend the 2020 Virginia Space Grant Research Conference for presentation but canceled due to concerns related to COVID. Specific research consisted of a report of local industrial air quality and related coastal implication. </small>
 
