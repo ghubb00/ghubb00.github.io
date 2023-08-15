@@ -24,7 +24,7 @@ Academic Activity
 </p>
 
 <p>
-<em>Vestige of Redlining – Hampton Roads and Community Diabetes Prevalenc</em>
+<em>Vestige of Redlining – Hampton Roads and Community Diabetes Prevalence</em>
 <br><small>Gregory Hubbard, Carolina M Casellini, David C. Lieb. Vestige of Redlining – Hampton Roads and Community Diabetes Prevalence. Presented at: 5th Annual ABIM Choosing Wisely Day; March 25, 2023; Norfolk, VA.</small>
 </p>
 
