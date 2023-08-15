@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a current second-year medical student (M2) at Eastern Virginia Medical School passionate about healthcare and medical education. Previous background in software development and computational research.
+Gregory Hubbard is current second-year medical student (M2) at Eastern Virginia Medical School passionate about healthcare and medical education. Previous background in software development and computational research.
 
 Academic Activity
 ======
