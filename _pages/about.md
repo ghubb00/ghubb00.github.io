@@ -63,13 +63,19 @@ Academic Activity
   
 
 
-Past Employment
+Laboratory Affiliations
 ======
-
 ### EVMS Department of Neurology and Medical Imaging (current)
 * Advisor: Alberto Musto, MD, PhD
 * Study: Dynamic model of epileptogenic frequencies and dendritic spine density
 * Techniques: machine learning, neural imaging, wave form analysis 
+* Poster presentation: CD40 Modulates Neural Oscillation, CNCM Annual Conference 2023 - Irvine, Ca. 
+
+### Vanderbilt University Medical Center, Department of Renal Pathology 
+* Advisor: Agnes B. Fogo, M.D. 
+* Study: Semaphorin3B L/R Interaction and Glomerular-Tubulointerstitial Crosstalk
+* Techniques: cell culture, spatial transcriptomics, genomics, renal biopsy, tissue preparation, tissue staining
+* Poster presentation: 2023 NIDDK/SRTP Symposium - Nashville, Tn.
 
 ### ODU Vision Lab (2020-2021)
 * Advisor: Khan Iftekharuddin, PhD
