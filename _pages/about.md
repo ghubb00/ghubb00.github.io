@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Gregory Hubbard is current second-year medical student (M2) at Eastern Virginia Medical School passionate about healthcare and medical education. Previous background in software development and computational research.
+Gregory Hubbard is a current second-year medical student (M2) at Eastern Virginia Medical School passionate about healthcare and medical education. Previous background in software development and computational research.
 
 Academic Activity
 ======
 
 <p>
-<em>Paracrine Proximal Tubule Semaphorin3B Mediates Glomerular Parietal Epithelial Cell</em>
+<em>Paracrine Proximal Tubule Semaphorin3B Mediates Glomerular Parietal Epithelial Cell Activity</em>
 <br><small>Gregory Hubbard, Haichun Yang, Agnes Fogo. Paracrine Proximal Tubule Semaphorin3B Mediates Glomerular Parietal Epithelial Cell Activity. Presented at: NIDDK 15th Annual Medical Student Research Program Symposium; July 25, 2023; Vanderbilt University Nashville, TN.</small>
 </p>
 
