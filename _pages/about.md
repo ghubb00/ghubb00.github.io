@@ -24,6 +24,11 @@ Academic Activity
 </p>
 
 <p>
+<em>Utilizing Instagram As A Novel Method For Dermatopathology Instruction </em>
+<br> <small> Hubbard G, Saal R, Wintringham J, Roberts A. Utilizing Instagram As A Novel Method for Dermatopathology Instruction. Clin Exp Dermatol. 2023 Sep 8:llad311. doi: 10.1093/ced/llad311. Epub ahead of print. PMID: 37683086. </small>
+</p>
+
+<p>
 <em>CD40 Modulates Neural Oscillation </em>
 <br> <small> Gregory Hubbard, Omar Khan, Alberto Musto. CD40 Modulates Neural Oscillation. Presented at: Center for Neural Circuit Mapping (CNCM) Conference on “Structure, Function and Development of Neural Circuits”; August 21 – 23, 2023; Beckman Center of the National Academies of Science & Engineering, Irvine CA. </small>
 </p>
