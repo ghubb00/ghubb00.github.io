@@ -14,6 +14,16 @@ Academic Activity
 ======
 
 <p>
+<em>Tubular Semaphorin3B Mediates Glomerular Parietal Epithelial Cell Activity </em>
+<br><small>Gregory Hubbard, Haichun Yang, Agnes Fogo. Tubular Semaphorin3B Mediates Glomerular Parietal Epithelial Cell Activity. Presented at: 35th Annual EVMS Research Day; October 20, 2023; Eastern Virginia Medical School, Norfolk, VA.</small>
+</p>
+
+<p>
+<em>CD40 Influences Idiosyncratic Regional Oscillation Across The Cortex-Hippocampal Axis </em>
+<br> <small>Gregory Hubbard, Albert Musto. CD40 Influences Idiosyncratic Regional Oscillation Across The Cortex-Hippocampal Axis. Presented at: 35th Annual EVMS Research Day; October 20, 2023; Eastern Virginia Medical School, Norfolk, VA. </small>
+</p>
+
+<p>
 <em>Paracrine Proximal Tubule Semaphorin3B Mediates Glomerular Parietal Epithelial Cell Activity</em>
 <br><small>Gregory Hubbard, Haichun Yang, Agnes Fogo. Paracrine Proximal Tubule Semaphorin3B Mediates Glomerular Parietal Epithelial Cell Activity. Presented at: NIDDK 15th Annual Medical Student Research Program Symposium; July 25, 2023; Vanderbilt University Nashville, TN.</small>
 </p>
