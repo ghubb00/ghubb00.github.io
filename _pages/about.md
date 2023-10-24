@@ -24,6 +24,11 @@ Academic Activity
 </p>
 
 <p>
+<em>CD40 Modulates Neural Oscillation </em>
+<br> <small> Gregory Hubbard, Omar Khan, Alberto Musto. CD40 Modulates Neural Oscillation. Presented at: Center for Neural Circuit Mapping (CNCM) Conference on “Structure, Function and Development of Neural Circuits”; August 21 – 23, 2023; Beckman Center of the National Academies of Science & Engineering, Irvine CA. </small>
+</p>
+
+<p>
 <em>Paracrine Proximal Tubule Semaphorin3B Mediates Glomerular Parietal Epithelial Cell Activity</em>
 <br><small>Gregory Hubbard, Haichun Yang, Agnes Fogo. Paracrine Proximal Tubule Semaphorin3B Mediates Glomerular Parietal Epithelial Cell Activity. Presented at: NIDDK 15th Annual Medical Student Research Program Symposium; July 25, 2023; Vanderbilt University Nashville, TN.</small>
 </p>
