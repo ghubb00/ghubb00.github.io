@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Gregory Hubbard is a current second-year medical student (M2) at Eastern Virginia Medical School passionate about healthcare and medical education. Previous background in software development and computational research.
+Gregory Hubbard is a current second-year medical student (M2) at Eastern Virginia Medical School passionate about healthcare and medical education. I am particularly interested in molecular and immunogenic basis of chronic disease. My current research focuses on the paracrine mediators of cellular injury and the immunogenic factors that preclude pathogenesis.
 
 Academic Activity
 ======
