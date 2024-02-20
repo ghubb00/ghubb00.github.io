@@ -14,6 +14,11 @@ Academic Activity
 ======
 
 <p>
+<em>Investigating The Role Of HFO In Neuronal Networks </em>
+<br><small>Gregory Hubbard, Albert Musto. Investigating The Role Of HFO In Neuronal Networks. Presented at: Jonathan D. Siegel Research Medical Student Research Symposium; February 19, 2024; Eastern Virginia Medical School, Norfolk, VA.</small>
+</p>
+
+<p>
 <em>Tubular Semaphorin3B Mediates Glomerular Parietal Epithelial Cell Activity </em>
 <br><small>Gregory Hubbard, Haichun Yang, Agnes Fogo. Tubular Semaphorin3B Mediates Glomerular Parietal Epithelial Cell Activity. Presented at: 35th Annual EVMS Research Day; October 20, 2023; Eastern Virginia Medical School, Norfolk, VA.</small>
 </p>
