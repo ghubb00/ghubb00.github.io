@@ -24,6 +24,11 @@ Academic Activity
 </p>
 
 <p>
+<em>Utilizing Instagram As A Novel Method For Dermatopathology Instruction </em>
+<br><small>Hubbard G, Saal R, Wintringham J, Roberts A. Utilizing Instagram as a novel method for dermatopathology instruction. Clinical and Experimental Dermatology. 2024;49(1):89-91. doi:10.1093/ced/llad311</small>
+</p>
+
+<p>
 <em>Tubular Semaphorin3B Mediates Glomerular Parietal Epithelial Cell Activity </em>
 <br><small>Gregory Hubbard, Haichun Yang, Agnes Fogo. Tubular Semaphorin3B Mediates Glomerular Parietal Epithelial Cell Activity. Presented at: 35th Annual EVMS Research Day; October 20, 2023; Eastern Virginia Medical School, Norfolk, VA.</small>
 </p>
@@ -31,11 +36,6 @@ Academic Activity
 <p>
 <em>CD40 Influences Idiosyncratic Regional Oscillation Across The Cortex-Hippocampal Axis </em>
 <br> <small>Gregory Hubbard, Albert Musto. CD40 Influences Idiosyncratic Regional Oscillation Across The Cortex-Hippocampal Axis. Presented at: 35th Annual EVMS Research Day; October 20, 2023; Eastern Virginia Medical School, Norfolk, VA. </small>
-</p>
-
-<p>
-<em>Utilizing Instagram As A Novel Method For Dermatopathology Instruction </em>
-<br> <small> Hubbard G, Saal R, Wintringham J, Roberts A. Utilizing Instagram As A Novel Method for Dermatopathology Instruction. Clin Exp Dermatol. 2023 Sep 8:llad311. doi: 10.1093/ced/llad311. Epub ahead of print. PMID: 37683086. </small>
 </p>
 
 <p>
