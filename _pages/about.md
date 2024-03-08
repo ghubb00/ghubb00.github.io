@@ -16,6 +16,7 @@ Academic Activity
 <p>
 <em>Exercise and Activity Patterns in Patients Prior to Mohs Micrographic Surgery</em>
 <br><small>Hubbard G, Kornmehl H, Goldberg L. Exercise and Activity Patterns in Patients Prior to Mohs Micrographic Surgery. Presented at: 2024 American Academy of Dermatology Annual Meeting; March 8-12; San Diego CA.</small>
+<br><small><a href="https://eposters.aad.org/abstracts/54749">ePoster and Abstract</a></small>
 </p>
 
 <p>
