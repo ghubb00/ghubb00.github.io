@@ -14,6 +14,11 @@ Academic Activity
 ======
 
 <p>
+<em>Exercise and Activity Patterns in Patients Prior to Mohs Micrographic Surgery</em>
+<br><small>Hubbard G, Kornmehl H, Goldberg L. Exercise and Activity Patterns in Patients Prior to Mohs Micrographic Surgery. Presented at: 2024 American Academy of Dermatology Annual Meeting; March 8-12; San Diego CA.</small>
+</p>
+
+<p>
 <em>Investigating The Role Of HFO In Neuronal Networks </em>
 <br><small>Gregory Hubbard, Albert Musto. Investigating The Role Of HFO In Neuronal Networks. Presented at: Jonathan D. Siegel Research Medical Student Research Symposium; February 19, 2024; Eastern Virginia Medical School, Norfolk, VA.</small>
 </p>
