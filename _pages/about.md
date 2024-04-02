@@ -14,6 +14,11 @@ Academic Activity
 ======
 
 <p>
+<em>Proximal Tubular injury Activates Parietal Epithelial Cells by Paracrine Signaling of Semaphorin 3B and its Receptors Neuropilin1 and Plexin A2</em>
+<br><small>Gregory Hubbard, Jianyong Zhong, Haichun Yang, Agnes B. Fogo. Proximal Tubular injury Activates Parietal Epithelial Cells by Paracrine Signaling of Semaphorin 3B and its Receptors Neuropilin1 and Plexin A2. Laboratory Investigation. 2024;104(3, Supplement):101721. doi:10.1016/j.labinv.2024.101721</small>
+</p>
+
+<p>
 <em>Exercise and Activity Patterns in Patients Prior to Mohs Micrographic Surgery</em>
 <br><small>Hubbard G, Kornmehl H, Goldberg L. Exercise and Activity Patterns in Patients Prior to Mohs Micrographic Surgery. Presented at: 2024 American Academy of Dermatology Annual Meeting; March 8-12; San Diego CA.</small>
 <br><small><a href="https://eposters.aad.org/abstracts/54749">ePoster and Abstract</a></small>
