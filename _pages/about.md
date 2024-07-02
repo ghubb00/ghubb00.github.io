@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Gregory Hubbard is a current second-year medical student (M2) at Eastern Virginia Medical School passionate about healthcare and medical education. I am particularly interested in the molecular and immunogenic basis of chronic disease. My current research focuses on the paracrine mediators of cellular injury and the immunogenic factors that preclude pathogenesis.
+Gregory Hubbard is a current third-year medical student (M3) at Eastern Virginia Medical School passionate about healthcare and medical education. I am particularly interested in the molecular and immunogenic basis of chronic disease. My current research focuses on the paracrine mediators of cellular injury and the immunogenic factors that preclude pathogenesis.
 
 # Academic Activity
 
