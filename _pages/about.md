@@ -18,7 +18,7 @@ Gregory Hubbard is a current second-year medical student (M2) at Eastern Virgini
 <p>
 <p>
 <em>Proximal Tubular injury Activates Parietal Epithelial Cells by Paracrine Signaling of Semaphorin 3B and its Receptors Neuropilin1 and Plexin A2</em>
-<br><small>Hubbard G, Zhong J, Yang H, Fogo AB. Proximal Tubular injury Activates Parietal Epithelial Cells by Paracrine Signaling of Semaphorin 3B and its Receptors Neuropilin1 and Plexin A2. Laboratory Investigation. 2024;104(3, Supplement):101721. doi:10.1016/j.labinv.2024.101721
+<br><small>Hubbard G, Zhong J, Yang H, Fogo AB. Proximal Tubular injury Activates Parietal Epithelial Cells by Paracrine Signaling of Semaphorin 3B and its Receptors Neuropilin1 and Plexin A2. Laboratory Investigation. 2024;104(3, Supplement):101721. doi:10.1016/j.labinv.2024.101721</small>
 <br><small><a href="https://www.laboratoryinvestigation.org/article/S0023-6837(24)01399-0/pdf">Poster Abstract</a></small>
 </p>
 
