@@ -17,6 +17,11 @@ Gregory Hubbard is a current third-year medical student (M3) at Eastern Virginia
 
 <p>
 <p>
+<em>Silencing CD40 Downregulates NR2B in Experimental Seizures</em>
+<br><small>Musto AE, Vinokuroff KE, Hubbard GW, Pototskiy E. El silenciamiento del CD40 regula negativamente el NR2B en convulsiones experimentales. Presented at: XIII Congreso Latinoamericano de Epilepsia; June 16, 2024; Santo Domingo, República Dominicana.</small>
+</p>
+
+<p>
 <em>Precision Based Exploration of Neural Networks using Microelectrodes</em>
 <br><small>Hubbard GW, Musto AE. Precision Based Exploration of Neural Networks using Microelectrodes. Presented at: NanoBioTech 2024; April 25, 2023; Historic Cavalier Resort, Virginia Beach, Virginia</small>
 </p>
