@@ -39,6 +39,7 @@ Gregory Hubbard is a third-year medical student (M3) at Eastern Virginia Medical
 <em>Exercise and Activity Patterns in Patients Prior to Mohs Micrographic Surgery</em>
 <br><small>Hubbard G, Kornmehl H, Goldberg L. Exercise and Activity Patterns in Patients Prior to Mohs Micrographic Surgery. Presented at: 2024 American Academy of Dermatology Annual Meeting; March 8-12; San Diego CA.</small>
 <br><small><a href="https://eposters.aad.org/abstracts/54749">ePoster and Abstract</a></small>
+<br><small>DOI: 10.1016/j.jaad.2024.07.839</small>
 </p>
 
 <p>
