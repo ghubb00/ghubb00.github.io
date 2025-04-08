@@ -14,6 +14,11 @@ Gregory Hubbard is a third-year medical student (M3) at Eastern Virginia Medical
 
 <p>
 <p>
+<em>Pan-American Group of Epilepsy : High Frequency Oscillations and Epileptogenesis</em>
+<br><small>Hubbard, G. (2025, March 7). High Frequency Oscillations and Epileptogenesis [Conference presentation]. 3rd Seminar of the “Cycle of Seminars 2025 of the Pan-American Group of Studies in Epilepsy,” Zoom. Musto Laboratory, Department of Biomedical and Translational Sciences, Virginia Health Sciences at ODU.</small>
+</p>
+
+<p>
 <em>CD40 Influences HFO Rate by Sensitizing NMDA Receptor Activity</em>
 <br><small>Hubbard GW, Musto AE. CD40 Influences HFO Rate by Sensitizing NMDA Receptor Activity. Presented at: 36th Annual EVMS Research Day; October 11, 2024; Eastern Virginia Medical School, Norfolk, VA. </small>
 <br><small><a href="https://www.evms.edu/media/evms_public/departments/marketing__communications/research_day_program_2024_accessible.pdf">Poster Abstract</a></small>
