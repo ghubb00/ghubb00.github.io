@@ -21,7 +21,8 @@ Gregory Hubbard is a third-year medical student (M3) at Eastern Virginia Medical
 
 <p>
 <em>AAN 2025 Scientific Presentation: Neuroinflammation and Pathologic High Frequency Events</em>
-<br><small>Hubbard G. Neuroinflammation Modulates Pathologic High Frequency Events. Presented at: American Academy of Neurology 2025 Annual Meeting; Session: Epilepsy Basic Mechanisms, Status Epilepticus, and Mortality; April 9, 2025; San Diego, CA. Abstract #58502. Available at: https://www.aan.com/msa/Public/Events/AbstractDetails/58502</small>
+<br><small>Hubbard G. Neuroinflammation Modulates Pathologic High Frequency Events. Presented at: American Academy of Neurology 2025 Annual Meeting; Session: Epilepsy Basic Mechanisms, Status Epilepticus, and Mortality; April 9, 2025; San Diego, CA. Abstract #58502.</small>
+<br><small><a href="https://www.aan.com/msa/Public/Events/AbstractDetails/58502">Poster Abstract</a></small>
 </p>
 
 <p>
