@@ -16,7 +16,6 @@ Gregory Hubbard is a third-year medical student (M3) at Eastern Virginia Medical
 <p>
 <em>Neuroinflammation Modulates Pathologic High Frequency Events</em>
 <br><small>Hubbard G, Musto A. Neuroinflammation Modulates Pathologic High Frequency Events. Neurology. 2025 Apr 9;100(15 Supplement):58502. doi: 10.1212/WNL.0000000000211840</small>
-<br><small>DOI: 10.1212/WNL.0000000000211840</small>
 </p>
 
 <p>
