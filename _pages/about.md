@@ -14,7 +14,12 @@ Gregory Hubbard is a third-year medical student (M3) at Eastern Virginia Medical
 
 <p>
 <p>
-<em>Pan-American Group of Epilepsy : High Frequency Oscillations and Epileptogenesis</em>
+<em>AAN 2025 Scientific Presentation: Neuroinflammation and Pathologic High Frequency Events</em>
+<br><small>Hubbard G. Neuroinflammation Modulates Pathologic High Frequency Events. Presented at: American Academy of Neurology 2025 Annual Meeting; Session: Epilepsy Basic Mechanisms, Status Epilepticus, and Mortality; April 9, 2025; San Diego, CA. Abstract #58502. Available at: https://www.aan.com/msa/Public/Events/AbstractDetails/58502</small>
+</p>
+
+<p>
+<em>Pan-American Group of Epilepsy Seminar Presentation: High Frequency Oscillations and Epileptogenesis</em>
 <br><small>Hubbard, G. (2025, March 7). High Frequency Oscillations and Epileptogenesis [Conference presentation]. 3rd Seminar of the “Cycle of Seminars 2025 of the Pan-American Group of Studies in Epilepsy,” Zoom. Musto Laboratory, Department of Biomedical and Translational Sciences, Virginia Health Sciences at ODU.</small>
 </p>
 
