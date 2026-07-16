@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Gregory Hubbard is a fourth-year medical student (M4) at Eastern Virginia Medical School with a strong passion for healthcare, medical education, and neurology. He is particularly interested in the molecular and immunogenic basis of neurological diseases, with a focus on understanding how cellular injury and immune responses contribute to pathogenesis. His current research explores the paracrine mediators of cellular injury and the immunogenic factors involved in chronic neurological conditions. 
+Dr. Gregory Hubbard, MD is a medical resident at Brown University. He is particularly interested in the molecular and electrophysiologic basis of neurological diseases, machine learning, and medical education. His current research explores the paracrine mediators of cellular injury and the immunogenic factors involved in chronic neurological conditions. 
 
 # Academic Activity
 
