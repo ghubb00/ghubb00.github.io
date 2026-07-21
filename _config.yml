@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gregory Hubbard / Personal Site"
+title                    : "Gregory W. Hubbard, MD | Neurology"
 title_separator          : "-"
 name                     : &name "Gregory Hubbard"
 description              : #&description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gregory Hubbard"
   avatar           : "GWH_pfp.jpg"
-  bio              : "Brown Neurology | EVMS 2026"
+  bio              : "Brown Medicine | EVMS 2026"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
