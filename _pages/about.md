@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gregory W Hubbard"
+title: "Gregory W Hubbard, MD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Gregory Hubbard, MD is a medical resident at Brown University. He is particularly interested in the molecular and electrophysiologic basis of neurological diseases, machine learning, and medical education. His current research explores the paracrine mediators of cellular injury and the immunogenic factors involved in chronic neurological conditions. 
+Gregory W Hubbard, MD is a medical resident at Brown University Hospital. He is particularly interested in the molecular and electrophysiologic basis of neurological disease, machine learning, and medical education. His current research explores the biomarkers of epileptogenesis, neural network dynamics, and the immunogenic factors involved in chronic neurological conditions. 
 
 # Academic Activity
 
